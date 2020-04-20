@@ -26,7 +26,7 @@ The following tools are required in order to start the installation.
 3. Install `node package manager` on your local machine: `https://nodejs.org/en`
 4. Run `npm install` to install the dependencies as defined in the package.json file.
 5. you can create `.env` by `cp .env.example .env` 
-	then add your db 	credential in it.
+	then add your database credential in it.
 6. Run `php artisan key:generate` to generate a key for your app.
 7. Run `php artisan migrate --seed` to run the database migrations.
 8. Run `php artisan serve` to Serve the application on the PHP development server.
