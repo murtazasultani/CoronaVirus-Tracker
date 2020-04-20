@@ -4,7 +4,7 @@
 &nbsp;
 # CoronaVirus Tracker
 
-> This is the source code repository for [CoronaVirus Tracker](http://covid19.sabtinam.com). The code is entirely open source and licensed under [the MIT license](license.txt). Read the installation guide below to get started with setting up the app on your machine.
+> This is the source code repository for [CoronaVirus Tracker](http://covid19.sabtinam.com). The code is entirely open source and licensed under the [MIT license](license). Read the installation guide below to get started with setting up the app on your machine.
 
 ## ABSTRACT
 Find out the place or path between two endpoints which is less infected to the Coronavirus (COVID-19). Through this app, you can explore which places are infected to the coronavirus (COVID-19), find out the base path between two places which is less Infected to the coronavirus (COVID-19) and also you can get the latest information from the World Health Organization about COVID-19.
