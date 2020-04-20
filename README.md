@@ -11,7 +11,7 @@ Find out the place or path between two endpoints which is less infected to the C
 
 ## Requirements
 
-The following tools are required in order to start the installation.
+Before installing the app you will need to make sure your server meets the following requirements:
 
 - PHP >= 7.2.5
 - BCMath PHP Extension
