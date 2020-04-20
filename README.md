@@ -13,9 +13,14 @@ Find out the place or path between two endpoints which is less infected to the C
 
 The following tools are required in order to start the installation.
 
-- PHP >= 7.2.1
-- PDO PHP Extension
+- PHP >= 7.2.5
+- BCMath PHP Extension
+- Ctype PHP Extension
+- Fileinfo PHP extension
+- JSON PHP Extension
 - Mbstring PHP Extension
+- OpenSSL PHP Extension
+- PDO PHP Extension
 - Tokenizer PHP Extension
 - XML PHP Extension
 
